@@ -1,2 +1,7 @@
 # stop-playing-league-of-legends
-help i dont go to class anymore
+
+Run the following command:
+
+`python3 main.py`
+
+The program will run in the background and force quit League of Legends if you open it and tell you to go outside.
